@@ -62,6 +62,7 @@ class AuthController extends Controller
     }
      public function showRegistrationFormdip()
     {
+        /////////////////////////////////////////////
         return view('infodiplome');
     }
 }
